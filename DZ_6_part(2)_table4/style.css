@@ -20,6 +20,9 @@
 	margin-right: auto;
 	
 }
+.item_name{
+	color: red;
+}
 th {
 	border-bottom: 1px solid black;
 	padding-top: 15px;
